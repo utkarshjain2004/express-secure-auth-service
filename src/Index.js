@@ -6,8 +6,6 @@ const authRoutes = require('./routes/Auth');
 
 const app = express();
 app.use(express.json());
-const path = require('path');
-app.use(express.static(path.join(__dirname, '../POSTMAN DOC/IT_62SEM6-DEVOPS.pdf')));
 
 
 // Startup logs
