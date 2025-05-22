@@ -13,7 +13,7 @@ A production‑ready Express.js backend implementing:
 
 ```bash
 git clone https://github.com/utkarshjain2004/express-secure-auth-service.git
-cd express-secure-auth-api
+cd express-secure-auth-service
 npm install
 cp .env.example .env
 # fill in .env (MONGO_URI, EMAIL_USER, EMAIL_PASS, JWT_SECRET, BASE_URL)
