@@ -12,7 +12,7 @@ A production‑ready Express.js backend implementing:
 ## Getting Started
 
 ```bash
-git clone https://github.com/USERNAME/express-secure-auth-api.git
+git clone https://github.com/utkarshjain2004/express-secure-auth-service.git
 cd express-secure-auth-api
 npm install
 cp .env.example .env
